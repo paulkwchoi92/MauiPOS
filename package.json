@@ -1,0 +1,23 @@
+{
+  "name": "mauipos",
+  "version": "1.0.0",
+  "description": "POS system for MAUI with python and Electron JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulkwchoi92/MauiPOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulkwchoi92/MauiPOS/issues"
+  },
+  "homepage": "https://github.com/paulkwchoi92/MauiPOS#readme",
+  "devDependencies": {
+    "electron": "^19.0.6"
+  }
+}
